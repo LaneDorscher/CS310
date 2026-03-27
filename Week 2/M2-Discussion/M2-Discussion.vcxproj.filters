@@ -18,5 +18,8 @@
     <ClCompile Include="M2-Discussion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="JesseBunnell-m2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

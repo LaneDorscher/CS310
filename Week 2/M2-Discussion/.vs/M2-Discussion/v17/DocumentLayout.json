@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\C\u002B\u002B\\M2-Discussion\\",
+  "WorkspaceRootPath": "D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\CS310\\Week 2\\M2-Discussion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A02CD287-2E9A-4B31-9DF0-F67E03B2A7D1}|M2-Discussion.vcxproj|D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\C\u002B\u002B\\M2-Discussion\\M2-Discussion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A02CD287-2E9A-4B31-9DF0-F67E03B2A7D1}|M2-Discussion.vcxproj|D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\CS310\\Week 2\\M2-Discussion\\JesseBunnell-m2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A02CD287-2E9A-4B31-9DF0-F67E03B2A7D1}|M2-Discussion.vcxproj|solutionrelative:JesseBunnell-m2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02CD287-2E9A-4B31-9DF0-F67E03B2A7D1}|M2-Discussion.vcxproj|D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\CS310\\Week 2\\M2-Discussion\\M2-Discussion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A02CD287-2E9A-4B31-9DF0-F67E03B2A7D1}|M2-Discussion.vcxproj|solutionrelative:M2-Discussion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "M2-Discussion.cpp",
-              "DocumentMoniker": "D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\C\u002B\u002B\\M2-Discussion\\M2-Discussion.cpp",
-              "RelativeDocumentMoniker": "M2-Discussion.cpp",
-              "ToolTip": "D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\C\u002B\u002B\\M2-Discussion\\M2-Discussion.cpp",
-              "RelativeToolTip": "M2-Discussion.cpp",
+              "Title": "JesseBunnell-m2.cpp",
+              "DocumentMoniker": "D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\CS310\\Week 2\\M2-Discussion\\JesseBunnell-m2.cpp",
+              "RelativeDocumentMoniker": "JesseBunnell-m2.cpp",
+              "ToolTip": "D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\CS310\\Week 2\\M2-Discussion\\JesseBunnell-m2.cpp",
+              "RelativeToolTip": "JesseBunnell-m2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-27T03:34:46.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "M2-Discussion.cpp",
+              "DocumentMoniker": "D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\CS310\\Week 2\\M2-Discussion\\M2-Discussion.cpp",
+              "RelativeDocumentMoniker": "M2-Discussion.cpp",
+              "ToolTip": "D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\CS310\\Week 2\\M2-Discussion\\M2-Discussion.cpp",
+              "RelativeToolTip": "M2-Discussion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-27T03:17:50.333Z",
               "EditorCaption": ""
