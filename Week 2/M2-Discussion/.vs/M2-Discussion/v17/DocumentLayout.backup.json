@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\C\u002B\u002B\\M2-Discussion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A02CD287-2E9A-4B31-9DF0-F67E03B2A7D1}|M2-Discussion.vcxproj|D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\C\u002B\u002B\\M2-Discussion\\M2-Discussion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A02CD287-2E9A-4B31-9DF0-F67E03B2A7D1}|M2-Discussion.vcxproj|solutionrelative:M2-Discussion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "M2-Discussion.cpp",
+              "DocumentMoniker": "D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\C\u002B\u002B\\M2-Discussion\\M2-Discussion.cpp",
+              "RelativeDocumentMoniker": "M2-Discussion.cpp",
+              "ToolTip": "D:\\Workspaces\\Bellevue\\OneDrive - Bellevue University\\Spring Term 2026\\C\u002B\u002B\\M2-Discussion\\M2-Discussion.cpp",
+              "RelativeToolTip": "M2-Discussion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-27T03:17:50.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
