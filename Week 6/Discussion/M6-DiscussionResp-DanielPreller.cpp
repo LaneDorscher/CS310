@@ -32,7 +32,7 @@ int main() {
                 break;
             case LOW:
                 cout << "  The fan speed is currently set to low." << endl;
-                break; //Editor note: fixed a sneaky runtime error by adding break statement to stop run-on condition
+                break; //Editor note: fixed a sneaky logical error by adding break statement to stop run-on condition
             case MEDIUM:
                 cout << "  The fan speed is currently set to medium." << endl;
                 break;
@@ -41,7 +41,8 @@ int main() {
                 break;
             default:// Closes the program if a number out of range is entered
                 cout << "  Press enter to close." << endl;
-                return _getch(); //Editor note: unfamiliar with getch but compiler advised using _getch() and added return to satisy main return type
+                _getch(); //Editor note: unfamiliar with getch but compiler advised using _getch()
+                return 0; //return 0 for main exit
         }
 
         cout << "  Enter a number from 0 to 3 to set the speed. Enter a number out of range to exit: ";
